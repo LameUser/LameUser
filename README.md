@@ -12,7 +12,7 @@ I'm a cyber enthusiast who is willing to collaborate and work in this field. I h
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LameUser&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LameUser&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LameUser&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LameUser&icon=5&color=3)](https://visitcount.itsvg.in)
